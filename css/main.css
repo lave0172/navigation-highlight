@@ -79,3 +79,7 @@ small {
 main img {
   max-width: 100%;
 }
+
+.nav .current {
+  background-color: #b20953;
+}
